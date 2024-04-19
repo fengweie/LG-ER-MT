@@ -40,7 +40,7 @@ This code requires the following
  
    ```shell
    cd code
-   python test_LA.py --gpu 0
+   python train_LA_mt_ce_alldata_struct.py --gpu 0
    ```
 3. Test model:
  
